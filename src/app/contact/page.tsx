@@ -36,7 +36,7 @@ const Contact = () => {
 
   const contactInfo = {
     address: `University Of Engineering & Management, New Town, University Area, Plot No. III, B/5, New Town Rd, Action Area III, Newtown, New Town, West Bengal 743502`,
-    email: "iedciotlab@gmail.com",
+    email: "iedc.iotcsbt@iem.edu.in",
     website: "https://iedc-journal.vercel.app",
     workingHours: `Monday - Friday: 9:00 AM - 6:00 PM
 Saturday: 9:00 AM - 1:00 PM
@@ -587,5 +587,6 @@ Sunday: Closed`,
     </div>
   );
 };
+
 
 export default Contact;
