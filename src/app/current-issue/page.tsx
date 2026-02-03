@@ -112,7 +112,7 @@ const CurrentIssue = () => {
                       <h4 className='font-medium text-gray-800 mb-2'>Publication Details</h4>
                       <div className='space-y-1 text-gray-600'>
                         <p> Mode: Online</p>
-                        <p>Subject of Publication: Reseant Trends in Engineering and Technology</p>
+                        <p>Subject of Publication: Recent Trends in Engineering and Technology</p>
                         
                         <p>Published: {currentIssue.publishDate}</p>
                         <p>ISSN: XXXX-XXXX (Online)</p>
