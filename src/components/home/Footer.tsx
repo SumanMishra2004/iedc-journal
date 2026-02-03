@@ -15,7 +15,7 @@ const Footer = () => {
             <div className='w-20 h-20 md:w-24 md:h-24 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-500 to-blue-600 p-1 shadow-xl'>
               <div className='w-full h-full rounded-xl overflow-hidden bg-white'>
                 <Image 
-                  src="/iedc-logo.jpg" 
+                  src="/iedc-logo.png" 
                   width={96} 
                   height={96} 
                   alt='IEDC Logo'

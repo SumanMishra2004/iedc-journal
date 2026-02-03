@@ -4,15 +4,15 @@ import Link from 'next/link'
 
 const CurrentIssue = () => {
   const currentIssue = {
-    volume: "Volume 3",
+    volume: "Volume 1",
     issue: "Issue 1",
     year: "2025",
     month: "October",
     status: "Current Issue",
     publishDate: "XXXXXXXXXXXXXXX",
-    coverImage: "/iedc-logo.jpg",
+    coverImage: "/iedc-logo.png",
     totalArticles: "X",
-    theme: "Satya Vision Chronicles",
+    theme: "SatyaVision Chronicles",
     description: "This special issue focuses on cutting-edge research in emerging technologies, artificial intelligence, and sustainable innovation solutions."
   }
 
@@ -87,7 +87,7 @@ const CurrentIssue = () => {
                   </div>
                   <div className='flex items-center gap-3 text-sm'>
                     <BookUser className='w-4 h-4' />
-                    <span>Language :English</span>
+                    <span>Language: English</span>
                   </div>
                 </div>
 

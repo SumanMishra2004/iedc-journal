@@ -95,7 +95,7 @@ const Navbar: React.FC = () => {
           <div className="flex  justify-center items-center gap-6">
             <div className="md:h-24 h-14 w-14 md:w-24  flex items-center justify-center font-bold text-gray-700 rounded-full overflow-hidden">
               <Image
-                src="/iedc-logo.jpg"
+                src="/iedc-logo.png"
                 alt="IEDC Logo"
                 width={100}
                 height={100}
@@ -422,7 +422,7 @@ const Navbar: React.FC = () => {
             {/* IEDC Logo */}
             <div className="h-10 w-10 rounded-full overflow-hidden bg-white shadow-sm">
               <Image
-                src="/iedc-logo.jpg"
+                src="/iedc-logo.png"
                 alt="IEDC Logo"
                 width={40}
                 height={40}
